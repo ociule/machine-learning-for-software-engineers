@@ -164,15 +164,15 @@ Each day I take one subject from the list below, read it cover to cover, take no
 
 ## Machine learning: an in-depth, non-technical guide
 - [x] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
-- [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
-- [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
-- [ ] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
-- [ ] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
+- [x] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
+- [x] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
+- [x] [Model performance and error analysis](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
+- [x] [Unsupervised learning, related fields, and machine learning in practice](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## Stories and experiences
-- [ ] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+- [x] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
-- [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
+- [x] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
@@ -184,7 +184,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
 ## Machine Learning Algorithms
-- [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
+- [x] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
@@ -291,80 +291,14 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
     - [ ] [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
     - [ ] [Cambridge](http://mlg.eng.cam.ac.uk/)
-- Flipboard Topics
-    - [Machine learning](https://flipboard.com/topic/machinelearning)
-    - [Deep learning](https://flipboard.com/topic/deeplearning)
-    - [Artificial Intelligence](https://flipboard.com/topic/artificialintelligence)
-- Medium Topics
-    - [Machine learning](https://medium.com/tag/machine-learning/latest)
-    - [Deep learning](https://medium.com/tag/deep-learning)
-    - [Artificial Intelligence](https://medium.com/tag/artificial-intelligence)
-- Monthly top 10 articles
-    - Machine Learning
-        - [July 2016](https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144#.lyycen64y)
-        - [August 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed#.i9ee7qkjz)
-        - [September 2016](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7#.4jbjcibft)
-        - [October 2016](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-35c37825a943#.td5im1p5z)
-    - Algorithms
-        - [September 2016](https://medium.mybridge.co/algorithm-top-10-articles-in-september-8a0e6afb0807#.hgjzuyxdb)
-- [Comprehensive list of data science resources](http://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources)
-- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [CreativeAi's Machine Learning](http://www.creativeai.net/?cat%5B0%5D=machine-learning)
 
-## Games
-- [Halite: A.I. Coding Game](https://halite.io/)
-- [Vindinium: A.I. Programming Challenge](http://vindinium.org/)
-- [General Video Game AI Competition](http://www.gvgai.net/)
-- [Angry Birds AI Competition](https://aibirds.org/)
-- [The AI Games](http://theaigames.com/)
-- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/)
-- [CodeCup](http://www.codecup.nl/intro.php)
-- [Student StarCraft AI Tournament](http://sscaitournament.com/)
-- [AIIDE StarCraft AI Competition](http://www.cs.mun.ca/~dchurchill/starcraftaicomp/)
-- [CIG StarCraft AI Competition](https://sites.google.com/site/starcraftaic/)
-- [CodinGame - AI Bot Games](https://www.codingame.com/training/machine-learning)
 
 ## Becoming an Open Source Contributor
 - [ ] [tensorflow/magenta: Magenta: Music and Art Generation with Machine Intelligence](https://github.com/tensorflow/magenta)
 - [ ] [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
-- [ ] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
+- [x] [cmusatyalab/openface: Face recognition with deep neural networks.](https://github.com/cmusatyalab/openface)
 - [ ] [tensorflow/models/syntaxnet: Neural Models of Syntax.](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
-## Podcasts
-- ### Podcasts for Beginners:
-    - [Talking Machines](http://www.thetalkingmachines.com/)
-    - [Linear Digressions](http://lineardigressions.com/)
-    - [Data Skeptic](http://dataskeptic.com/)
-    - [This Week in Machine Learning & AI](https://twimlai.com/)
-
-- ### "More" advanced podcasts
-    - [Partially Derivative](http://partiallyderivative.com/)
-    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
-    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
-
-- ### Podcasts to think outside the box:
-    - [Data Stories](http://datastori.es/)
-
-## Communities
-- Quora
-    - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
-    - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
-    - [Data Mining](https://www.quora.com/topic/Data-Mining)
-
-- Reddit
-    - [Machine Learning](https://www.reddit.com/r/machinelearning)
-    - [Computer Vision](https://www.reddit.com/r/computervision)
-    - [Natural Language](https://www.reddit.com/r/languagetechnology)
-    - [Data Science](https://www.reddit.com/r/datascience)
-    - [Big Data](https://www.reddit.com/r/bigdata)
-    - [Statistics](https://www.reddit.com/r/statistics)
-
-- [Data Tau](http://www.datatau.com/)
-
-- [Deep Learning News](http://news.startup.ml/)
-
-- [KDnuggets](http://www.kdnuggets.com/)
 
 ## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
